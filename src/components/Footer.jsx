@@ -35,10 +35,10 @@ const Footer = () => {
             <div className="link-group">
               <h3>關注我們</h3>
               <div className="social-links">
-                <a href="#" className="social-link"><i className="icon-facebook"></i></a>
-                <a href="#" className="social-link"><i className="icon-twitter"></i></a>
-                <a href="#" className="social-link"><i className="icon-linkedin"></i></a>
-                <a href="#" className="social-link"><i className="icon-youtube"></i></a>
+                <a href="#!" className="social-link"><i className="fab fa-facebook-f"></i></a>
+                <a href="#!" className="social-link"><i className="fab fa-twitter"></i></a>
+                <a href="#!" className="social-link"><i className="fab fa-linkedin-in"></i></a>
+                <a href="#!" className="social-link"><i className="fab fa-youtube"></i></a>
               </div>
             </div>
           </div>

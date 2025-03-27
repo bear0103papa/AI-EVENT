@@ -1,5 +1,4 @@
 import React from 'react';
-import './Forums.css';
 
 const Forums = () => {
   const forums = [
