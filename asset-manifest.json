@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AI-EVENT/static/css/main.21cf2dc6.css",
+    "main.js": "/AI-EVENT/static/js/main.9b3e63c7.js",
+    "static/js/453.386ca555.chunk.js": "/AI-EVENT/static/js/453.386ca555.chunk.js",
+    "index.html": "/AI-EVENT/index.html",
+    "main.21cf2dc6.css.map": "/AI-EVENT/static/css/main.21cf2dc6.css.map",
+    "main.9b3e63c7.js.map": "/AI-EVENT/static/js/main.9b3e63c7.js.map",
+    "453.386ca555.chunk.js.map": "/AI-EVENT/static/js/453.386ca555.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21cf2dc6.css",
+    "static/js/main.9b3e63c7.js"
+  ]
+}
