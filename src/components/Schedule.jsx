@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-
+import './Schedule.css';
 const Schedule = () => {
   const [activeTab, setActiveTab] = useState('all');
   
